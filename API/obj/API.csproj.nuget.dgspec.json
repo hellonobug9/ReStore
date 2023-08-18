@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\API.csproj": {}
+    "c:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\API.csproj": {
+    "c:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\API.csproj",
+        "projectPath": "c:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\CharlieTran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\obj\\",
+        "outputPath": "c:\\Users\\CharlieTran\\projects\\dotnets\\ReStore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CharlieTran\\AppData\\Roaming\\NuGet\\NuGet.Config"
